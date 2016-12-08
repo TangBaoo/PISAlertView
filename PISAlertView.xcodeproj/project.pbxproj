@@ -212,7 +212,6 @@
 				TargetAttributes = {
 					33125FFA1DF9069B009EB9BF = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = P7R24KCL2A;
 						ProvisioningStyle = Automatic;
 					};
 					331260131DF9069B009EB9BF = {
@@ -429,7 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = P7R24KCL2A;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = PISAlertView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -442,7 +441,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = P7R24KCL2A;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = PISAlertView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -516,6 +515,7 @@
 				3312602A1DF9069B009EB9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3312602B1DF9069B009EB9BF /* Build configuration list for PBXNativeTarget "PISAlertViewTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +524,7 @@
 				3312602D1DF9069B009EB9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3312602E1DF9069B009EB9BF /* Build configuration list for PBXNativeTarget "PISAlertViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +533,7 @@
 				331260301DF9069B009EB9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
